@@ -1,6 +1,7 @@
 package ru.ifsoft.network.constants;
 
 public interface Constants {
+    
 
     // Attention! You can only change the values of the following constants:
 
